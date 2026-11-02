@@ -13,9 +13,7 @@ An evidence-led, interactive investigation of how AI investment, cloud procureme
 
 ## The question
 
-The familiar diagram of AI financing is a ring of famous companies joined by identical arrows. But the arrows are not identical. One is cash that has moved, another is a borrowing facility, another is a contract commitment, and another marks a reported valuation. Each one means something different, and each can tell a different story.
-
-This project labels the arrows and then asks one test: **do capital, capacity, demand and obligations converge, or drift apart?**
+The familiar diagram of AI financing is a ring of famous companies joined by identical arrows. But the arrows are not identical. One is cash that has moved, another is a borrowing facility, another is a contract, and another is a reframed obligation. This project labels the arrows and then asks one test: **do capital, capacity, demand and obligations converge, or drift apart?**
 
 ## Start here
 
@@ -24,7 +22,7 @@ This project labels the arrows and then asks one test: **do capital, capacity, d
 | **Explore the evidence yourself** | [The interactive investigation](https://ChrisDHayes.github.io/ai-capital-circuit/#opening) |
 | **Read the argument in order** | [The companion article](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html) |
 | **See the method, hypotheses and limits** | [The full research essay](https://ChrisDHayes.github.io/ai-capital-circuit/research/essay.html) |
-| **Check a figure against its source** | [Source index](data/SOURCE_INDEX.csv) · [Evidence workbook](data/AI_Capital_Circuit_Cumulative_Evidence.xlsx) |
+| **Check a figure against its source** | [Source index](data/SOURCE_INDEX.csv) · [Evidence workbook](AI_Capital_Circuit_Cumulative_Evidence.xlsb) |
 | **Jump to a specific exhibit** | [Exhibit directory](https://ChrisDHayes.github.io/ai-capital-circuit/docs/EXHIBIT_LINKS.html) |
 
 ## Seven stops, one route through the evidence
@@ -41,7 +39,7 @@ The article and the interactive follow the same seven stops. Each stop in the ar
 | 6 · Obligations | Which dependencies and deadlines matter? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#resilience) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#obligations) |
 | 7 · Sustainability | What do we know, and what do we not know? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#findings) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#sustainability) |
 
-Every citation in the article, such as **[8]**, jumps to its entry in the source list, and each entry links to the original document and back to the place in the text where it was cited. Source numbers and links are included in the interactive and the article as a shared evidence trail.
+Every citation in the article, such as **[8]**, jumps to its entry in the source list, and each entry links to the original document and back to the place in the text where it was cited. Source numbers are cross-linked to the evidence workbook and the web pages themselves.
 
 ## How to read it responsibly
 
@@ -55,7 +53,7 @@ This project keeps different kinds of numbers apart. It does not add them togeth
 - reported valuations
 - hypothetical model outputs
 
-Company size and link weights change meaning with the lens you select. Private financing valuations are not the same as public market capitalizations. Dates refer to the period and disclosure in the source, not necessarily the date the narrative was updated.
+Company size and link weights change meaning with the lens you select. Private financing valuations are not the same as public market capitalizations. Dates refer to the period and disclosure in the underlying records.
 
 ## What this does not show
 
@@ -73,20 +71,21 @@ index.html                       Interactive seven-theme experience (GitHub Page
 .nojekyll                        Tells GitHub Pages to serve the files as they are
 articles/substack.html           Companion article: reading page with citations and exhibit links
 articles/Substack_Article.md     Substack-ready source (uses {{SITE_URL}} placeholders)
-articles/Substack_Article.docx   Word draft of the article
+articles/Substack_Article.docx    Word draft of the article
 research/essay.html              Full research essay: reading page
 research/AI_Capital_Circuit_Research_Essay.md   Essay source
 research/Research_Essay.docx     Essay as a Word document
 research/Research_Development_Map.md           How the project was built, stage by stage
 assets/                          Reading-page styles and the constellation preview image
 data/                            Source index, evidence workbook, valuation source register
+AI_Capital_Circuit_Cumulative_Evidence.xlsb     Main evidence workbook used by the project
 docs/                            Exhibit directory, methodology, verification, QA, publishing guide
 scripts/                         Link configuration and link validation
 ```
 
 ## For maintainers
 
-GitHub Pages setup, link configuration and Substack cross-linking steps are in [`docs/PUBLISHING_GUIDE.md`](docs/PUBLISHING_GUIDE.md). Run `python scripts/validate_links.py` before every release to confirm the static site is wired correctly.
+GitHub Pages setup, link configuration and Substack cross-linking steps are in [`docs/PUBLISHING_GUIDE.md`](docs/PUBLISHING_GUIDE.md). Run `python scripts/validate_links.py` before every release.
 
 ## Suggested citation
 
@@ -94,6 +93,6 @@ Hayes, C. (2026). *The AI Capital Circuit: Follow the capital. Question the circ
 
 ## Acknowledgment and rights
 
-Financial facts and contextual analysis refer to the linked disclosures and research, and attribution is kept in the essay and source index. The HTML, explanatory text and calculations are part of the project and are made available for noncommercial reuse subject to attribution and citation.
+Financial facts and contextual analysis refer to the linked disclosures and research, and attribution is kept in the essay and source index. The HTML, explanatory text and calculations are part of the project package. The evidence workbook is a supporting file in the repository.
 
 *This is research and analytical commentary, not investment advice.*
