@@ -1,0 +1,33 @@
+company,year,value_usd_billions,measurement,reference_date,source_url,qualification
+Microsoft,2022,1790,public market capitalization,2022-12-30,https://stockanalysis.com/stocks/msft/market-cap/,
+Microsoft,2023,2790,public market capitalization,2023-12-29,https://stockanalysis.com/stocks/msft/market-cap/,
+Microsoft,2024,3130,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/msft/market-cap/,
+Microsoft,2025,3590,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/msft/market-cap/,
+Microsoft,2026,3940,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/msft/market-cap/,
+NVIDIA,2022,359.5,public market capitalization,2022-12-30,https://stockanalysis.com/stocks/nvda/market-cap/,
+NVIDIA,2023,1220,public market capitalization,2023-12-29,https://stockanalysis.com/stocks/nvda/market-cap/,
+NVIDIA,2024,3290,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/nvda/market-cap/,
+NVIDIA,2025,4530,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/nvda/market-cap/,
+NVIDIA,2026,5200,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/nvda/market-cap/,
+Amazon,2022,856.94,public market capitalization,2022-12-30,https://stockanalysis.com/stocks/amzn/market-cap/,
+Amazon,2023,1570,public market capitalization,2023-12-29,https://stockanalysis.com/stocks/amzn/market-cap/,
+Amazon,2024,2310,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/amzn/market-cap/,
+Amazon,2025,2470,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/amzn/market-cap/,
+Amazon,2026,2750,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/amzn/market-cap/,
+Meta,2022,319.09,public market capitalization,2022-12-30,https://stockanalysis.com/stocks/meta/market-cap/,
+Meta,2023,909.63,public market capitalization,2023-12-29,https://stockanalysis.com/stocks/meta/market-cap/,
+Meta,2024,1480,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/meta/market-cap/,
+Meta,2025,1660,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/meta/market-cap/,
+Meta,2026,1570,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/meta/market-cap/,
+Oracle,2022,220.39,public market capitalization,2022-12-30,https://stockanalysis.com/stocks/orcl/market-cap/,
+Oracle,2023,289.82,public market capitalization,2023-12-29,https://stockanalysis.com/stocks/orcl/market-cap/,
+Oracle,2024,466.08,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/orcl/market-cap/,
+Oracle,2025,560,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/orcl/market-cap/,
+Oracle,2026,438.17,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/orcl/market-cap/,
+CoreWeave,2025,35.68,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/crwv/market-cap/,
+CoreWeave,2026,35.26,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/crwv/market-cap/,
+Nebius,2024,5.52,public market capitalization,2024-12-31,https://stockanalysis.com/stocks/nbis/market-cap/,Pre-2024 stock history relates to a substantially different corporate structure and is not represented as Nebius AI infrastructure valuation.
+Nebius,2025,21.08,public market capitalization,2025-12-31,https://stockanalysis.com/stocks/nbis/market-cap/,Pre-2024 stock history relates to a substantially different corporate structure and is not represented as Nebius AI infrastructure valuation.
+Nebius,2026,49.98,public market capitalization,2026-10-28,https://stockanalysis.com/stocks/nbis/market-cap/,Pre-2024 stock history relates to a substantially different corporate structure and is not represented as Nebius AI infrastructure valuation.
+OpenAI,2026,852,private post-money valuation,2026-03-31,https://openai.com/index/accelerating-the-next-phase-ai/,"March 31, 2026 financing-round post-money valuation, not a continuously traded market capitalization."
+Anthropic,2026,965,private post-money valuation,2026-05-28,https://www.anthropic.com/news/series-h,"May 28, 2026 funding-round post-money valuation, not a continuously traded market capitalization."
