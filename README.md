@@ -20,7 +20,7 @@ The familiar diagram of AI financing is a ring of famous companies joined by ide
 | If you want to… | Open |
 |---|---|
 | **Explore the evidence yourself** | [The interactive investigation](https://ChrisDHayes.github.io/ai-capital-circuit/#opening) |
-| **Read the argument in order** | [The companion article](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html) |
+| **Read the argument in order** | [The published article](https://substack.com/@chrishayes405644/p-223195331) |
 | **See the method, hypotheses and limits** | [The full research essay](https://ChrisDHayes.github.io/ai-capital-circuit/research/essay.html) |
 | **Check a figure against its source** | [Source index](data/SOURCE_INDEX.csv) · [Evidence workbook](AI_Capital_Circuit_Cumulative_Evidence.xlsb) |
 | **Jump to a specific exhibit** | [Exhibit directory](https://ChrisDHayes.github.io/ai-capital-circuit/docs/EXHIBIT_LINKS.html) |
@@ -31,13 +31,13 @@ The article and the interactive follow the same seven stops. Each stop in the ar
 
 | Stop | Question | Interactive exhibit | Article section |
 |---|---|---|---|
-| 1 · Acceleration | How much is being invested, and what are we counting? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#acceleration) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#acceleration) |
-| 2 · Origins | Where does the capital come from, and in what form? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#classification) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#origins) |
-| 3 · Financial network | Who funds whom, and how large is each relationship? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#network-premium) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#financial-network) |
-| 4 · Company trajectories | How are individual firms changing over time? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#motion-premium) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#company-trajectories) |
-| 5 · Return of demand | What becomes recognized economics? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#realization) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#return-of-demand) |
-| 6 · Obligations | Which dependencies and deadlines matter? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#resilience) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#obligations) |
-| 7 · Sustainability | What do we know, and what do we not know? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#findings) | [Read](https://ChrisDHayes.github.io/ai-capital-circuit/articles/substack.html#sustainability) |
+| 1 · Acceleration | How much is being invested, and what are we counting? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#acceleration) | [Read](https://substack.com/@chrishayes405644/p-223195331#acceleration) |
+| 2 · Origins | Where does the capital come from, and in what form? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#classification) | [Read](https://substack.com/@chrishayes405644/p-223195331#origins) |
+| 3 · Financial network | Who funds whom, and how large is each relationship? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#network-premium) | [Read](https://substack.com/@chrishayes405644/p-223195331#financial-network) |
+| 4 · Company trajectories | How are individual firms changing over time? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#motion-premium) | [Read](https://substack.com/@chrishayes405644/p-223195331#company-trajectories) |
+| 5 · Return of demand | What becomes recognized economics? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#realization) | [Read](https://substack.com/@chrishayes405644/p-223195331#return-of-demand) |
+| 6 · Obligations | Which dependencies and deadlines matter? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#resilience) | [Read](https://substack.com/@chrishayes405644/p-223195331#obligations) |
+| 7 · Sustainability | What do we know, and what do we not know? | [Open](https://ChrisDHayes.github.io/ai-capital-circuit/#findings) | [Read](https://substack.com/@chrishayes405644/p-223195331#sustainability) |
 
 Every citation in the article, such as **[8]**, jumps to its entry in the source list, and each entry links to the original document and back to the place in the text where it was cited. Source numbers are cross-linked to the evidence workbook and the web pages themselves.
 
